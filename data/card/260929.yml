@@ -243,4 +243,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
-{"id":226862606,"author":{"login":"gnebbia","id":16106651,"node_id":"MDQ6VXNlcjE2MTA2NjUx","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEZTPMs4NhaYO","tag_name":"v0.1.8","target_commitish":"main","name":"v0.1.8","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-06-21T22:36:10Z","updated_at":"2025-06-21T22:39:37Z","published_at":"2025-06-21T22:39:37Z","assets":[],"body":"Release v0.1.8"}
